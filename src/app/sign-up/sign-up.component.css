@@ -85,33 +85,33 @@ span{
     #fname,#contact-no, #eami-address,#user,#pass{
       
         width: 45vh;
-        margin-left: -25px;
+        margin-left: -30px;
         
         }
         label{
             font-size: 1.5vh;
-            margin-left: -5%;
-            letter-spacing: 0px;
+            margin-left: -8%;
+            letter-spacing: 2px;
             
         }
         #btn{
            
             font-size: 1.5vh;
-           letter-spacing: 0px;
-           margin-left: -25px;
-           width: 45vh;
+           letter-spacing: 2px;
+           margin-left: -35px;
+           width: 49vh;
           
         }
         #fb-btn{
            -webkit-text-size-adjust: 100%;
-            letter-spacing: 0px;
-            margin-left: -25px;
-            width: 45vh;
+            letter-spacing: 2px;
+            margin-left: -35px;
+            width: 49vh;
         }
         h2{
             display: block;
-            font-size: 2.6vh;
-            margin-left: -19px;
+            font-size: 3vh;
+            margin-left: -26px;
             
         }
         .wraper{
