@@ -1,0 +1,60 @@
+.full{
+    background-color: #333333;
+    padding: 100px 100px;
+}
+.wraper{
+    background-color: whitesmoke;
+    padding: 10px 50px 50px 50px;
+    width: 40%;
+    font-family:  EngraversGothic BT, serif;
+}
+#username,#password{
+    width: 60%;
+    margin-left: 15%;
+    padding: 10px 10px 10px 7px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-family:  EngraversGothic BT, serif;
+    }
+    label{
+        font-size: 12px;
+        font-family:EngraversGothic BT, serif;
+        position: absolute;
+        margin-left: 5.3%;
+        text-transform: uppercase;
+        letter-spacing: 2px;
+        
+    }
+    input[type=text]:focus{
+        outline: 1px solid #333333;    
+      }
+      input[type=password]:focus{
+        outline: 1px solid #333333;    
+      }
+      #btn{
+        background-color: black;
+        border: none;
+        color: #ffffff;
+        font-size: 12px;
+        font-family: EngraversGothic BT, serif;
+        font-weight: 300;
+        letter-spacing: 2px;
+        line-height: 43px;
+        height: 44px;
+        padding: 0 30px;
+        text-transform: uppercase;
+       margin-left: 15%;
+       width: 63%;
+       cursor: pointer;
+       margin-bottom: 10px;
+       margin-top: 10px;
+    }
+    span{
+        font-size: 12px;
+        position: absolute;
+        text-decoration: underline;
+        text-decoration-style: initial;
+        text-transform: uppercase;
+        margin-left: -3.7%;
+        cursor: pointer;
+    }
